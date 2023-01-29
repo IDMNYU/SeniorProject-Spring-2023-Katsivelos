@@ -31,9 +31,9 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p.
 **Syllabus:**  The course website [https://nick-katsivelos.gitbook.io/senior-project-spring-2023/](https://nick-katsivelos.gitbook.io/senior-project-spring-2023/) (this site) is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.\
 
 
-<mark style="color:orange;">**Course Communication:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Google Space - You have all been invited</mark>
+**Course Communication:** Google Space - You have all been invited! This will also what we use for video communications when needed.
 
-<mark style="color:orange;">ZOOM for those unable to attend in person.</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**PLEASE NOTE In-person attendance is expected, unless NYU policy changes. If you cannot attend you must get prior approval or have a health check notification. When we do use zoom, assume this link**</mark>\ <mark style="color:orange;">****</mark>[<mark style="color:orange;">https://nyu.zoom.us/j/6384074728</mark>](https://nyu.zoom.us/j/6384074728) <mark style="color:orange;"></mark>&#x20;
+<mark style="color:orange;"></mark>
 
 ## Welcome to Senior Project in Digital Media!
 
@@ -177,7 +177,7 @@ Students will conduct **self-assessments** as well as be evaluated by the profes
 
 **Quantitative Grading Overview**
 
-* 15% Weekly submissions to [process website](pre-work/website.md)
+* 15% Weekly submissions to [process website](broken-reference)
 *   15% Critiques, Demos, Presentations & Exhibition
 
     [Project Demos and Critiques](critiques-demos-presentations-and-exhibition/project\_demo.md)
@@ -244,4 +244,4 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 ### [Recommended Resources](recommended\_resources.md)
 
-### [Schedule](schedule/)
+### [Schedule](schedule.md)

@@ -10,5 +10,5 @@ Over the course of the semester, you should upload the corresponding files and f
 * [Letter To Next Cohort](letter\_to\_next\_cohort.md) file&#x20;
 * [Midterm Self-assessment](midterm\_self\_assessment.md) file
 * [Course Evaluation](course\_evaluation.md) file
-* [Pre-work](../pre-work/) folder
-* OPTIONAL [Pro Practices Revisions ](pro\_practices\_revisions.md)files
+* [Pre-work](broken-reference) folder
+
