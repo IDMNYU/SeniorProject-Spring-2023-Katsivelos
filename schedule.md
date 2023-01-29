@@ -19,10 +19,9 @@ _Illustration by Jolby from gettoworkbook_
 
 | 1 | Jan 23 | Introductions, Syllabus Review and work on Getting Prepared |
 | - | ------ | ----------------------------------------------------------- |
-|   |        |                                                             |
 
-| 2 | <p><a href="broken-reference">Mon Sep 26</a></p><p></p> | Assignment Review, Each Student 2 min presentation and 3min Crit |
-| - | ------------------------------------------------------- | ---------------------------------------------------------------- |
+| 2 | <p>Jan 30</p><p></p> | Assignment Review, Each Student 2 min presentation and 3min Crit |
+| - | -------------------- | ---------------------------------------------------------------- |
 
 | 3 | <p><a href="broken-reference">Mon Feb 7</a></p><p></p> | Research and design |
 | - | ------------------------------------------------------ | ------------------- |
