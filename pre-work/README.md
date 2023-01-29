@@ -10,7 +10,7 @@ description: Please have these items completed for the second class
 * Create a google drive folder labeled "Senior Project Sprinmg22 your first and last name" and share with nick.katsivelos@nyu.edu (i.e. Senior Project Spring22 YourName).
 * Set up [dedicated process website](website.md) for senior project.
 * Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1OcgV14fQ-5CF06pYlxactQf4kqYFKBWtfOupdwr-h5s/edit?usp=sharing).
-* Join the [Miro board](pecha\_kucha.md)
+* Join the [Miro board](broken-reference)
 * Read the following chapters in [_Do The Work_ ](https://blackirishbooks.com/product/do-the-work/)by Steven Pressfield. &#x20;
   * About this Book preface
   * Orientation: Enemies & Allies
