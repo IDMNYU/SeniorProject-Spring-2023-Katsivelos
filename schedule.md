@@ -23,22 +23,23 @@ _Illustration by Jolby from gettoworkbook_
 | 2 | <p>Jan 30</p><p></p> | Assignment Review, Each Student 2 min presentation and 3min Crit |
 | - | -------------------- | ---------------------------------------------------------------- |
 
-| 3 | <p><a href="broken-reference">Mon Feb 7</a></p><p></p> | Research and design |
-| - | ------------------------------------------------------ | ------------------- |
+| 3 | <p>Feb 6</p><p></p> | Research and design |
+| - | ------------------- | ------------------- |
 
-| 4 | [Mon Feb 14](broken-reference) | <p>Research and design<br>NO CLASS NEXT WEEK</p> |
-| - | ------------------------------ | ------------------------------------------------ |
+| 4 | Feb 13 | <p>Research and design<br>NO CLASS NEXT WEEK</p> |
+| - | ------ | ------------------------------------------------ |
 
-| 5 | [Mon Feb 28](broken-reference) | Resources and milestones / research and design |
-| - | ------------------------------ | ---------------------------------------------- |
+| 5 | Feb 20 | Resources and milestones / research and design |
+| - | ------ | ---------------------------------------------- |
 
-| 6 | [Mon March 7](broken-reference) | <p>Project plan presentation<br>SPRING BEAK NEXT WEEK</p> |
-| - | ------------------------------- | --------------------------------------------------------- |
+| 6 | Feb 27 | <p>Project plan presentation<br>SPRING BEAK NEXT WEEK</p> |
+| - | ------ | --------------------------------------------------------- |
 
 
 
-|   | Mon March 14 | **SPRING BREAK** |
-| - | ------------ | ---------------- |
+|   | March 6 | **SPRING BREAK** |
+| - | ------- | ---------------- |
+|   |         |                  |
 
 | 7 | [Mon March 21](broken-reference) | Progress Overview |
 | - | -------------------------------- | ----------------- |
