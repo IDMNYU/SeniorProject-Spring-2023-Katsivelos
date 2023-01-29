@@ -35,14 +35,8 @@ _Illustration by Jolby from gettoworkbook_
 | 6 | Feb 27 | <p>Project plan presentation<br>SPRING BEAK NEXT WEEK</p> |
 | - | ------ | --------------------------------------------------------- |
 
-
-
-|   | March 6 | **SPRING BREAK** |
-| - | ------- | ---------------- |
-|   |         |                  |
-
-| 7 | [Mon March 21](broken-reference) | Progress Overview |
-| - | -------------------------------- | ----------------- |
+| 7 | March 6 | Progress Overview |
+| - | ------- | ----------------- |
 
 | 8 | [Mon March 28](broken-reference) | **Midterm Demo**  |
 | - | -------------------------------- | ----------------- |
