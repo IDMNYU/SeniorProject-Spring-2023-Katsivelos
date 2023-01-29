@@ -1,6 +1,10 @@
+---
+description: Excellent Resources curated by De Angela Duff
+---
+
 # Recommended Resources
 
-_Illustration by Jolby from gettoworkbook_
+__
 
 ## Recommended Audio Podcasts
 

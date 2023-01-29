@@ -2,7 +2,6 @@
 
 * [Syllabus](README.md)
 * [🔥 Getting Prepared](pre-work/README.md)
-  * [Miro Board](pre-work/pecha\_kucha.md)
   * [Process Website](pre-work/website.md)
 * [Schedule](schedule/README.md)
   * [Week 1 Detail](schedule/week1\_detail.md)

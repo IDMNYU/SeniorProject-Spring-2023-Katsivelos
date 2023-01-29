@@ -18,22 +18,22 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ (p.
 \
 
 
-| PROFESSOR        |                                                                     | COURSE INFO        |                                             |
-| ---------------- | ------------------------------------------------------------------- | ------------------ | ------------------------------------------- |
-| **Name**         | Nick Katsivelos                                                     | **Term & Year**    | Spring 2023                                 |
-| **Email**        | nick.katsivelos@nyu.edu                                             | **Meeting Day**    | Monday                                      |
-| **Phone**        | 646 201 3938                                                        | **Meeting Time**   | <p>2:00 - 3:50<br>9/1/2022 - 12/14/2022</p> |
-| **Office**       | 370 Jay St. Room 346                                                | **Class Location** | <p>370 Jay Street <br>Room 308</p>          |
-| **Office Hours** | after class or by appt. please email or slack to set up appointment |                    |                                             |
+| PROFESSOR        |                                                                     | COURSE INFO        |                                            |
+| ---------------- | ------------------------------------------------------------------- | ------------------ | ------------------------------------------ |
+| **Name**         | Nick Katsivelos                                                     | **Term & Year**    | Spring 2023                                |
+| **Email**        | nick.katsivelos@nyu.edu                                             | **Meeting Day**    | Monday                                     |
+| **Phone**        | 646 201 3938                                                        | **Meeting Time**   | <p>2:00 - 3:50<br>1/23/2023 - 5/8/2023</p> |
+| **Office**       | 370 Jay St. Room 346                                                | **Class Location** | <p>370 Jay Street <br>Room 308</p>         |
+| **Office Hours** | after class or by appt. please email or slack to set up appointment |                    |                                            |
 
 **Credit Hrs** | 3 |
 
-**Syllabus:**  The course website [https://nick-katsivelos.gitbook.io/katsivelos-senior-project-fall-2022/](https://nick-katsivelos.gitbook.io/senior-project-fall-2022/) (this site) is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.\
+**Syllabus:**  The course website [https://nick-katsivelos.gitbook.io/senior-project-spring-2023/](https://nick-katsivelos.gitbook.io/senior-project-spring-2023/) (this site) is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.\
 
 
-<mark style="color:orange;">**Course Communication:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">**seniorprojectfall2021.slack.com**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Slack will be our primary communication tool. You should have received an invite. If not, please oin with nyu.edu email address. Invite Link below</mark>[ <mark style="color:orange;"></mark> ](https://idmspsp2022.slack.com/archives/C02UETWV52L)<mark style="color:orange;"></mark>[<mark style="color:orange;">https://idmspsp2022.slack.com/archives/C02UETWV52L</mark>](https://idmspsp2022.slack.com/archives/C02UETWV52L)<mark style="color:orange;"></mark>
+<mark style="color:orange;">**Course Communication:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Google Space - You have all been invited</mark>
 
-<mark style="color:orange;">ZOOM for those unable to attend in person. We will always use this Zoom link at the same time that class is scheduled for.</mark> [<mark style="color:orange;">https://nyu.zoom.us/j/6384074728</mark>](https://nyu.zoom.us/j/6384074728) <mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">**PLEASE NOTE In-person attendance is expected, unless NYU policy changes.**</mark>
+<mark style="color:orange;">ZOOM for those unable to attend in person.</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**PLEASE NOTE In-person attendance is expected, unless NYU policy changes. If you cannot attend you must get prior approval or have a health check notification. When we do use zoom, assume this link**</mark>\ <mark style="color:orange;">****</mark>[<mark style="color:orange;">https://nyu.zoom.us/j/6384074728</mark>](https://nyu.zoom.us/j/6384074728) <mark style="color:orange;"></mark>&#x20;
 
 ## Welcome to Senior Project in Digital Media!
 
@@ -70,8 +70,6 @@ How are you currently feeling about your Senior Project?
 * Absolutely, Yes! or&#x20;
 * No:(&#x20;
 
-**If you are NOT feeling “Absolutely, Yes!” about your senior project**, remember your project idea is just that YOURS. I highly suggest you **read "What is Senior Project in Digital Media?"** (above on this page)**, again, AND the required and recommended resources NOW!**
-
 **Senior Project is about the work YOU are and will continue to do, when you are no longer a student.** You don’t need anyone to whip you to work because you can NOT, not do it. **You will live, eat, breath, and sleep with this project.** **It is NOT about doing a project for a class or pleasing the IDM faculty. It is about you, your ideas, your concerns, your questions and your passion.**
 
 Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. **Your goal is to COMPLETE a project that has a life beyond school, beyond graduation.**
@@ -104,19 +102,14 @@ This course will help students to:
 
 Students are expected to be on time for all individual meetings, critiques, project demos, and presentations.
 
-*   **Outside critic**
+This class will consist of:
 
-    It is the responsibility of each senior to invite an outside critic to _**at least**_** one** of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting (date, time, length, and typed notes) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](pre-work/website.md).
-
-This class will consist of
-
-* **Individual Meetings** Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready, as well. &#x20;
-
-Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
-
+* **Individual Meetings** Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready, as well.  \
+  \
+  Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
 *   **Group and class critiques**
 
-    Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability group](https://github.com/IDMNYU/SeniorProject\_Fall2021\_Katsivelos/tree/8b5c0e663d5f79b1ccd007ea6c6d72a1a388f24e/assignments/accountability\_group.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+    Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
 **Rules of the critique:**
 
@@ -135,9 +128,9 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 
 ### Communicating With the Professor Outside of Class
 
-* Direct message the professor on Slack about logistics (when, where, how many?) ONLY
+* Please use the chat functionality. For personal matters, please email me at nick.katsivelos@nyu.edu
 * Talk to the professor directly after class, during one of your one-on-one meetings, or set up an appointment by emailing or slack messaging me about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
-* Please be aware that I have an office on 3 in 370 Jay but am usually only there on Mondays.
+* Please be aware that I have an office 346 on 3 in 370 Jay but am usually only there on Mondays.
 
 ### Student Responsibilities
 
@@ -185,23 +178,11 @@ Students will conduct **self-assessments** as well as be evaluated by the profes
 **Quantitative Grading Overview**
 
 * 15% Weekly submissions to [process website](pre-work/website.md)
-* 15% Critiques, Demos, Presentations & Exhibition
-  * 05% [Project Demos and Critiques](critiques-demos-presentations-and-exhibition/project\_demo.md)
-  * 05% [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/project\_demo.md)
-  * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm\_showcase.md)
+*   15% Critiques, Demos, Presentations & Exhibition
+
+    [Project Demos and Critiques](critiques-demos-presentations-and-exhibition/project\_demo.md)
 * 30% Final Project&#x20;
-  * 15% [Project Plan and its revisions](https://github.com/IDMNYU/SeniorProject\_Fall2021\_Katsivelos/tree/8b5c0e663d5f79b1ccd007ea6c6d72a1a388f24e/project\_plan/README.md)&#x20;
-  * 15% [Project Development](https://github.com/IDMNYU/SeniorProject\_Fall2021\_Katsivelos/tree/8b5c0e663d5f79b1ccd007ea6c6d72a1a388f24e/project\_plan/README.md) &#x20;
 * 40% [End of Semester Documentation and Deliverables](end\_of\_semester\_deliverables/)  &#x20;
-  * 05% [End of Semester Process PDF](end\_of\_semester\_deliverables/pdf\_or\_book.md)
-  * (OPTIONAL) [End of Semester Process Book for EXTRA CREDIT (raise final grade by half a letter grade)](end\_of\_semester\_deliverables/pdf\_or\_book.md)
-  * 05% [Project Documentation For IDM Archives and Promotion](end\_of\_semester\_deliverables/project\_documentation.md)
-  * 7.5% [Pro Practices Revisions](end\_of\_semester\_deliverables/pro\_practices\_revisions.md)  &#x20;
-  * 2.5% [Final Self-assessment](end\_of\_semester\_deliverables/final\_self\_assessment.md)
-  * 2.5% [Letter To Next Cohort](end\_of\_semester\_deliverables/letter\_to\_next\_cohort.md)
-  * 2.5% [Midterm Self Assessment](end\_of\_semester\_deliverables/midterm\_self\_assessment.md)
-  * 2.5% [Pre-work](pre-work/)
-  * 2.5% [Course Evaluation](end\_of\_semester\_deliverables/course\_evaluation.md) &#x20;
 
 **Qualitative Grading Overview**
 
@@ -247,15 +228,14 @@ The TCS Department is dedicated to the university's goals for diversity, equity 
 
 Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc. If you or someone you know has been harassed or assaulted, you can find the appropriate resources here [https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html)
 
-### Required Readings
+### Required Viewing
 
-* [Do The Work! by Steven Pressfield](https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK)
-* [Epicenter Design](https://basecamp.com/gettingreal/09.2-epicenter-design)
+* Light & Magic [https://disneyplusoriginals.disney.com/show/light-and-magic](https://disneyplusoriginals.disney.com/show/light-and-magic) all 4 episodes
 
 ### Required Tools
 
 * Analog or Digital Calendar
-* Project Management Tools - I like using [Trello](http://www.trello.com) for this
+* Project Management Tools
 
 ### Software Requirements
 
