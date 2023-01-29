@@ -4,7 +4,7 @@
 
 * Please note that this is an optional exercise for brainstorming.
 * Please name your file as lastname\_senior\_sp20\_storytelling.pdf
-* Use google slides and the [pecha kucha](broken-reference) (20 slides x 20 sec) format.&#x20;
+* Use google slides and the [pecha kucha](../pre-work/pecha\_kucha.md) (20 slides x 20 sec) format.&#x20;
 * Export as a pdf and upload to your project documentation folder for your [end of semester deliverables](../end\_of\_semester\_deliverables/).
 
 Select 20 images that create a visual story about your project idea (no text). One image per screen. Be prepared to talk **briefly** about each image you select (20 seconds goes by fast).
