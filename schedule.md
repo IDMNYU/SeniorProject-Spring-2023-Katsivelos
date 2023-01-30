@@ -54,8 +54,6 @@ If applicable, means it depends on where you are in your process. Every project 
 | 14 | April 24 | Project Demo/Crit |
 | -- | -------- | ----------------- |
 
-Proj
-
 | 15 | May 1 | <p>Project Demo/Crit<br>Withdrawal Deadline 5/2</p> |
 | -- | ----- | --------------------------------------------------- |
 
