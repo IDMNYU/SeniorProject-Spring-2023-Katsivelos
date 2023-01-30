@@ -30,8 +30,8 @@ If applicable, means it depends on where you are in your process. Every project 
 | 4 | Feb 13 | Research and design |
 | - | ------ | ------------------- |
 
-| 5 | Feb 20 | Resources and milestones / research and design |
-| - | ------ | ---------------------------------------------- |
+| 5 | Feb 20 | **President's Day - No Classes** |
+| - | ------ | -------------------------------- |
 
 | 6 | Feb 27 | Project plan presentation |
 | - | ------ | ------------------------- |
@@ -39,16 +39,16 @@ If applicable, means it depends on where you are in your process. Every project 
 | 7 | March 6 | Progress Overview |
 | - | ------- | ----------------- |
 
-| 8 | March 13 | **Midterm Demo**  |
-| - | -------- | ----------------- |
+| 8 | March 13 | **Spring Break - No Classes** |
+| - | -------- | ----------------------------- |
 
-| 9 | March 20 | <p>Crit<br>(Midterm Grades Due)</p> |
-| - | -------- | ----------------------------------- |
+| 9 | March 20 | Crit |
+| - | -------- | ---- |
 
 
 
-| 10 | March 27 | Crit |
-| -- | -------- | ---- |
+| 10 | March 27 | <p>Crit<br>Fall Grades Due 3/31</p> |
+| -- | -------- | ----------------------------------- |
 
 | 11 | April 3 | Project Demo  |
 | -- | ------- | ------------- |
@@ -62,11 +62,11 @@ If applicable, means it depends on where you are in your process. Every project 
 | 14 | April 24 |   |
 | -- | -------- | - |
 
-|   | May 1 | **** |
-| - | ----- | ---- |
+|   | May 1 | Withdrawal Deadline 5/2 |
+| - | ----- | ----------------------- |
 
-|   | May 8 | **** |
-| - | ----- | ---- |
+|   | May 8 | **Last Class of Spring 2023** |
+| - | ----- | ----------------------------- |
 
-| 15 | May 18 | **** |
-| -- | ------ | ---- |
+| 15 | May 15 | **Final Presentation 1:1** |
+| -- | ------ | -------------------------- |
