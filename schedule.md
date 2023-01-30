@@ -16,8 +16,10 @@ If applicable, means it depends on where you are in your process. Every project 
 | 2 | <p>Jan 30</p><p></p> | Review Project Ideas |
 | - | -------------------- | -------------------- |
 
-| 3 | <p>Feb 6</p><p></p> | <p>Research and design Share results<br>Discuss "Light &#x26; Magic" Episodes 1 &#x26; 2</p> |
-| - | ------------------- | -------------------------------------------------------------------------------------------- |
+
+
+| 3 | <p>Feb 6</p><p></p> | <p><strong></strong><a href="critiques-demos-presentations-and-exhibition/project_plan_presentation.md"><strong>Project Statement / Goal</strong></a><br>Research and design Share results<br>Discuss "Light &#x26; Magic" Episodes 1 &#x26; 2</p> |
+| - | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | 4 | Feb 13 | <p>Research and design<br>Discuss "Light &#x26; Magic" Episodes 3 &#x26; 4</p> |
 | - | ------ | ------------------------------------------------------------------------------ |
