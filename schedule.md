@@ -16,11 +16,11 @@ If applicable, means it depends on where you are in your process. Every project 
 | 2 | <p>Jan 30</p><p></p> | Review Project Ideas |
 | - | -------------------- | -------------------- |
 
-| 3 | <p>Feb 6</p><p></p> | Research and design Share results |
-| - | ------------------- | --------------------------------- |
+| 3 | <p>Feb 6</p><p></p> | <p>Research and design Share results<br>Discuss "Light &#x26; Magic" Episodes 1 &#x26; 2</p> |
+| - | ------------------- | -------------------------------------------------------------------------------------------- |
 
-| 4 | Feb 13 | Research and design |
-| - | ------ | ------------------- |
+| 4 | Feb 13 | <p>Research and design<br>Discuss "Light &#x26; Magic" Episodes 3 &#x26; 4</p> |
+| - | ------ | ------------------------------------------------------------------------------ |
 
 | 5 | Feb 20 | **President's Day - No Classes** |
 | - | ------ | -------------------------------- |
@@ -34,30 +34,30 @@ If applicable, means it depends on where you are in your process. Every project 
 | 8 | March 13 | **Spring Break - No Classes** |
 | - | -------- | ----------------------------- |
 
-| 9 | March 20 | Crit |
-| - | -------- | ---- |
+| 9 | March 20 | Project Demo/Crit |
+| - | -------- | ----------------- |
 
 
 
-| 10 | March 27 | <p>Crit<br>Fall Grades Due 3/31</p> |
-| -- | -------- | ----------------------------------- |
+| 10 | March 27 | <p>Project Demo/Crit<br>Fall Grades Due 3/31</p> |
+| -- | -------- | ------------------------------------------------ |
 
-| 11 | April 3 | Project Demo  |
-| -- | ------- | ------------- |
+| 11 | April 3 | Project Demo/Crit |
+| -- | ------- | ----------------- |
 
-| 12 | April 10 | Project Demo  |
-| -- | -------- | ------------- |
+| 12 | April 10 | Project Demo/Crit |
+| -- | -------- | ----------------- |
 
-| 13 | <p>April 17</p><p></p> | Project Demo |
-| -- | ---------------------- | ------------ |
+| 13 | <p>April 17</p><p></p> | Project Demo/Crit |
+| -- | ---------------------- | ----------------- |
 
-| 14 | April 24 | Project Demo |
-| -- | -------- | ------------ |
+| 14 | April 24 | Project Demo/Crit |
+| -- | -------- | ----------------- |
 
 Proj
 
-| 15 | May 1 | <p>Project Demo<br>Withdrawal Deadline 5/2</p> |
-| -- | ----- | ---------------------------------------------- |
+| 15 | May 1 | <p>Project Demo/Crit<br>Withdrawal Deadline 5/2</p> |
+| -- | ----- | --------------------------------------------------- |
 
 | 16 | May 8 | **Last Class of Spring 2023** |
 | -- | ----- | ----------------------------- |
