@@ -4,14 +4,6 @@ description: DM-UY 4003-A Senior Project in Digital Media
 
 # Schedule
 
-_<mark style="color:orange;">**DATES WILL BE UPDATED**</mark>_
-
-__
-
-__
-
-_Illustration by Jolby from gettoworkbook_
-
 **ALL dates and assignments are subject to change at the discretion of the professor!** \
 If applicable, means it depends on where you are in your process. Every project is different. Certain aspects of your project may take more or less time than others.
 
@@ -59,11 +51,13 @@ If applicable, means it depends on where you are in your process. Every project 
 | 13 | <p>April 17</p><p></p> | Project Demo |
 | -- | ---------------------- | ------------ |
 
-| 14 | April 24 |   |
-| -- | -------- | - |
+| 14 | April 24 | Project Demo |
+| -- | -------- | ------------ |
 
-| 15 | May 1 | Withdrawal Deadline 5/2 |
-| -- | ----- | ----------------------- |
+Proj
+
+| 15 | May 1 | <p>Project Demo<br>Withdrawal Deadline 5/2</p> |
+| -- | ----- | ---------------------------------------------- |
 
 | 16 | May 8 | **Last Class of Spring 2023** |
 | -- | ----- | ----------------------------- |
