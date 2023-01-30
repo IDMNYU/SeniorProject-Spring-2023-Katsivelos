@@ -1,7 +1,5 @@
 # IDM Showcase
 
-![You Got This!](http://teaching.polishedsolid.com/images/gettoworkbook\_got\_this.png) _Illustration by Jolby from gettoworkbook_
-
 **DETAILS: Date and Details TBD**\
 Attendance is MANDATORY for the entire duration of the showcase!!
 

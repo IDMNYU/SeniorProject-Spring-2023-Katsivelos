@@ -12,7 +12,8 @@ __
 
 _Illustration by Jolby from gettoworkbook_
 
-**ALL dates and assignments are subject to change at the discretion of the professor!** If applicable, means it depends on where you are in your process. Every project is different. Certain aspects of your project may take more or less time than others.
+**ALL dates and assignments are subject to change at the discretion of the professor!** \
+If applicable, means it depends on where you are in your process. Every project is different. Certain aspects of your project may take more or less time than others.
 
 | week | date | class |
 | ---- | ---- | ----- |
@@ -20,55 +21,52 @@ _Illustration by Jolby from gettoworkbook_
 | 1 | Jan 23 | Introductions, Syllabus Review and work on Getting Prepared |
 | - | ------ | ----------------------------------------------------------- |
 
-| 2 | <p>Jan 30</p><p></p> | Assignment Review, Each Student 2 min presentation and 3min Crit |
-| - | -------------------- | ---------------------------------------------------------------- |
+| 2 | <p>Jan 30</p><p></p> | Review Project Ideas |
+| - | -------------------- | -------------------- |
 
-| 3 | <p>Feb 6</p><p></p> | Research and design |
-| - | ------------------- | ------------------- |
+| 3 | <p>Feb 6</p><p></p> | Research and design Share results |
+| - | ------------------- | --------------------------------- |
 
-| 4 | Feb 13 | <p>Research and design<br>NO CLASS NEXT WEEK</p> |
-| - | ------ | ------------------------------------------------ |
+| 4 | Feb 13 | Research and design |
+| - | ------ | ------------------- |
 
 | 5 | Feb 20 | Resources and milestones / research and design |
 | - | ------ | ---------------------------------------------- |
 
-| 6 | Feb 27 | <p>Project plan presentation<br>SPRING BEAK NEXT WEEK</p> |
-| - | ------ | --------------------------------------------------------- |
+| 6 | Feb 27 | Project plan presentation |
+| - | ------ | ------------------------- |
 
 | 7 | March 6 | Progress Overview |
 | - | ------- | ----------------- |
 
-| 8 | [Mon March 28](broken-reference) | **Midterm Demo**  |
-| - | -------------------------------- | ----------------- |
+| 8 | March 13 | **Midterm Demo**  |
+| - | -------- | ----------------- |
 
-| 9 | [Mon April 4](broken-reference) | <p>Crit<br>(Midterm Grades Due)</p> |
-| - | ------------------------------- | ----------------------------------- |
+| 9 | March 20 | <p>Crit<br>(Midterm Grades Due)</p> |
+| - | -------- | ----------------------------------- |
 
 
 
-| 10 | [Mon April 11](broken-reference) | Crit |
-| -- | -------------------------------- | ---- |
+| 10 | March 27 | Crit |
+| -- | -------- | ---- |
 
-| 11 | [Mon April 18](broken-reference) | Project Demo  |
-| -- | -------------------------------- | ------------- |
+| 11 | April 3 | Project Demo  |
+| -- | ------- | ------------- |
 
-|   | **TBD** | **Student Showcase Submissions Due** |
-| - | ------- | ------------------------------------ |
+| 12 | April 10 | Project Demo  |
+| -- | -------- | ------------- |
 
-| 12 | [Mon April 25](broken-reference) | Project Demo  |
-| -- | -------------------------------- | ------------- |
+| 13 | <p>April 17</p><p></p> | Project Demo |
+| -- | ---------------------- | ------------ |
 
-| 13 | <p><a href="broken-reference">Mon May 2</a></p><p></p> | Project Demo |
-| -- | ------------------------------------------------------ | ------------ |
+| 14 | April 24 |   |
+| -- | -------- | - |
 
-| 14 | [Mon May 9](broken-reference) | **LAST Class Spring 2022** |
-| -- | ----------------------------- | -------------------------- |
+|   | May 1 | **** |
+| - | ----- | ---- |
 
-|   | **May TBD** | **IDM Student Showcase (Opening Night)** |
-| - | ----------- | ---------------------------------------- |
+|   | May 8 | **** |
+| - | ----- | ---- |
 
-|   | **May TBD** | **Course Evaluations** |
-| - | ----------- | ---------------------- |
-
-| 15 | [Mon May 10 - 15 ](broken-reference) | **Final One On One Review** |
-| -- | ------------------------------------ | --------------------------- |
+| 15 | May 18 | **** |
+| -- | ------ | ---- |

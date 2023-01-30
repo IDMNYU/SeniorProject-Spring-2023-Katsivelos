@@ -2,11 +2,7 @@
 
 ## **Midterm Project Demo Prep**
 
-* IF you haven't already, please sign up for a [padlet](http://padlet.com/) account so your name will be attributed to your comments.&#x20;
-* You will find the room # and padlet you're assigned to in [this google sheet](https://docs.google.com/spreadsheets/d/1U9xOT\_r\_jnaPtbKW-pZMSXHni-UoA5cN-KGZrbMJg1E) .&#x20;
-* **By or before Sunday, March 27, 2022, at noon EST**, please document your prototype(s) by posting the link(s) directly to the thing itself if it is a website (incl. soundcloud links), social media feed (instagram, etc), animatic or animation on vimeo or youtube, etc to your group's respective padlet.&#x20;
-* You can also show multiple assets for your project demo. Put each one in a separate padlet card. **I HIGHLY recommend that you revise your teaser video and have that be your first padlet card.**
-* **Please look at the prototype(s) of the students in your assigned room BEFORE 2pm on midterm project demo day and leave comments for at least 3 students who are not in our section.** Also, leave comments for other students if you look at their projects on the other padlets. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project
+*
 
 ## **Midterm Project Demo Overview**
 
