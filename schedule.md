@@ -62,11 +62,11 @@ If applicable, means it depends on where you are in your process. Every project 
 | 14 | April 24 |   |
 | -- | -------- | - |
 
-|   | May 1 | Withdrawal Deadline 5/2 |
-| - | ----- | ----------------------- |
+| 15 | May 1 | Withdrawal Deadline 5/2 |
+| -- | ----- | ----------------------- |
 
-|   | May 8 | **Last Class of Spring 2023** |
-| - | ----- | ----------------------------- |
+| 16 | May 8 | **Last Class of Spring 2023** |
+| -- | ----- | ----------------------------- |
 
-| 15 | May 15 | **Final Presentation 1:1** |
+| 17 | May 15 | **Final Presentation 1:1** |
 | -- | ------ | -------------------------- |
